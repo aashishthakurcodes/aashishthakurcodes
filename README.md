@@ -34,6 +34,8 @@
 ### Hosting
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishthakurcodes&label=Profile%20views&color=0e75b6&style=flat" alt="aashishthakurcodes" /> </p>
+
 
 
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishthakurcodes&show_icons=true&locale=en" alt="aashishthakurcodes" /></p>
@@ -45,6 +47,7 @@
 ![kateFrontend GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kateFrontend&show_icons=true) 
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishthakurcodes" alt="aashishthakurcodes" /></a> </p>
 <!-- ![](https://komarev.com/ghpvc/?username=kateFrontend) -->
 
 ## Contact or follow me:
