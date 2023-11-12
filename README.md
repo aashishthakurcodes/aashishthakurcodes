@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Aashish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2>Web developer & UI/UX Developer , Frontend Developer</h2>
+<h2>Web developer & UI/UX Developer , MERN Stack</h2>
 <img align='right' width='400' alt='coding' src='https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966'>
 
 - 💞️ Eat(); Sleep(); Code(); Repeat();
 - 👀 I'm interested in software development and design.
 - 🌱 I'm currently improving my skills in MERN stack.
 - ⚡ Fun fact: I create amazing digital artworks<br>
-- 🌱 I’m currently learning **MongoDb, Express.js**
+-
 
 - 📝 I regularly write articles on [https://blogbyaashsish.hashnode.dev/](https://blogbyaashsish.hashnode.dev/)
 
