@@ -10,7 +10,6 @@
 - 👀 I'm interested in software development and design.
 - 🌱 I'm currently improving my skills in MERN stack.
 - ⚡ Fun fact: I create amazing digital artworks<br>
--
 
 - 📝 I regularly write articles on [https://blogbyaashsish.hashnode.dev/](https://blogbyaashsish.hashnode.dev/)
 
